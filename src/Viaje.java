@@ -33,5 +33,6 @@ class Viaje {
         System.out.printf("\nOxígeno requerido: %.0f litros\n", oxigenoNecesario);
 
         Simulacion.simularViaje();
+        System.out.println("Finalizacion de la funcion");
     }
 }
